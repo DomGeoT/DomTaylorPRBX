@@ -1,0 +1,43 @@
+SELECT (COUNT(?a) as ?aCount) WHERE {
+   {
+      <{companyURI1}> ?a ?b .
+      ?b ?c ?d .
+      ?d ?e <{companyURI2}> .
+   } UNION
+   {
+      <{companyURI1}> ?a ?b .
+      ?b ?c ?d .
+      <{companyURI2}> ?e ?d .
+   } UNION
+   {
+      <{companyURI1}> ?a ?b .
+      ?d ?c ?b .
+      <{companyURI2}> ?e ?d .
+   } UNION
+   {
+      ?b ?a <{companyURI1}> .
+      ?d ?c ?b .
+      <{companyURI2}> ?e ?d .
+   } UNION
+   {
+      <{companyURI2}> ?a ?b .
+      ?b ?c ?d .
+      ?d ?e <{companyURI1}> .
+   } UNION
+   {
+      <{companyURI2}> ?a ?b .
+      ?b ?c ?d .
+      <{companyURI1}> ?e ?d .
+   } UNION
+   {
+      <{companyURI2}> ?a ?b .
+      ?d ?c ?b .
+      <{companyURI1}> ?e ?d .
+   } UNION
+   {
+      ?b ?a <{companyURI2}> .
+      ?d ?c ?b .
+      <{companyURI1}> ?e ?d .
+   }.
+   FILTER(?b != rdf:type && ?c !=rdf:type && ?e !=rdf:type).
+}

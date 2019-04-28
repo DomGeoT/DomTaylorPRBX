@@ -1,0 +1,4 @@
+SELECT DISTINCT ?companyURI ?symbol WHERE
+{
+    ?companyURI <http://dbpedia.org/property/symbol> ?symbol .
+}

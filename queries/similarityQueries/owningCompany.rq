@@ -1,0 +1,7 @@
+SELECT ?x
+WHERE {
+
+    ?x <http://dbpedia.org/ontology/owningCompany> <{companyURI1}> .
+    ?x <http://dbpedia.org/ontology/owningCompany> <{companyURI2}> .
+
+}

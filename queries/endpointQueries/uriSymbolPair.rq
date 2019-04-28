@@ -1,0 +1,6 @@
+SELECT ?company ?symbol WHERE {
+
+    ?company <http://dbpedia.org/property/symbol> "{symbol}"^^rdf:langString .
+    ?company <http://dbpedia.org/property/symbol> ?symbol .
+
+}

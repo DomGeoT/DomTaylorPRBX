@@ -1,0 +1,21 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbpedia2: <http://dbpedia.org/property/>
+
+SELECT DISTINCT ?symbol ?date ?time ?open ?close ?high ?low ?volume WHERE
+{
+    { ?datapoint1 dbpedia2:symbol 'NANO' }
+    UNION
+    { ?datapoint1 dbpedia2:symbol 'HCCHU' } .
+
+    ?datapoint1 dbpedia2:symbol ?symbol .
+	?datapoint1 xsd:date ?date .
+	?datapoint1 xsd:time ?time .
+	?datapoint1 <Datapoint/open> ?open .
+	?datapoint1 <Datapoint/close> ?close .
+	?datapoint1 <Datapoint/high> ?high .
+	?datapoint1 <Datapoint/low> ?low .
+	?datapoint1 <Datapoint/volume> ?volume .
+
+	
+} ORDER BY ?time 

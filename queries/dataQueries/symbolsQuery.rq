@@ -1,0 +1,4 @@
+SELECT DISTINCT ?symbol WHERE
+{
+    ?datapoint <http://dbpedia.org/property/symbol> ?symbol .
+}

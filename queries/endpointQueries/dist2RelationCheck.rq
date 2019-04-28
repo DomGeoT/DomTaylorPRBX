@@ -1,0 +1,19 @@
+SELECT ?a ?c WHERE {
+   {
+      <{companyURI1}> ?a ?b .
+      ?b ?c <{companyURI2}> .
+   } UNION
+   {
+      <{companyURI2}> ?a ?b .
+      ?b ?c <{companyURI1}> .
+   } UNION
+   {
+      ?b ?a <{companyURI2}> .
+      ?b ?c <{companyURI1}> .
+   } UNION
+   {
+      <{companyURI2}> ?a ?b .
+      <{companyURI1}> ?c ?b .
+   }.
+   FILTER(?a != rdf:type && ?c !=rdf:type && ?a !=<http://dbpedia.org/ontology/wikiPageWikiLink> && ?c !=<http://dbpedia.org/ontology/wikiPageWikiLink>).
+}

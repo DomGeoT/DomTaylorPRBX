@@ -1,0 +1,9 @@
+SELECT (COUNT(?a) as ?aCount) WHERE {
+   {
+      <{companyURI1}> ?a <{companyURI2}> .
+   } UNION
+   {
+      <{companyURI2}> ?a <{companyURI1}> .
+   }.
+   FILTER(?a != rdf:type) .
+}

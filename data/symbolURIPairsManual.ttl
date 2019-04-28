@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+<http://dbpedia.org/resource/Advanced_Micro_Devices> <http://dbpedia.org/property/symbol> "AMD"^^rdf:langString .
+<http://dbpedia.org/resource/Tesla> <http://dbpedia.org/property/symbol> "TSLA"^^rdf:langString .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/property/symbol> "NVDA"^^rdf:langString .
+<http://dbpedia.org/resource/Sinclair_Broadcast_Group> <http://dbpedia.org/property/symbol> "SBGI"^^rdf:langString .
+<http://dbpedia.org/resource/Zynga> <http://dbpedia.org/property/symbol> "ZNGA"^^rdf:langString .
+<http://dbpedia.org/resource/Scholastic_Corporation> <http://dbpedia.org/property/symbol> "SCHL"^^rdf:langString .
+<http://dbpedia.org/resource/Activision_Blizzard> <http://dbpedia.org/property/symbol> "ATVI"^^rdf:langString .
+<http://dbpedia.org/resource/Adobe> <http://dbpedia.org/property/symbol> "ADBE"^^rdf:langString .
+<http://dbpedia.org/resource/Autodesk> <http://dbpedia.org/property/symbol> "ADSK"^^rdf:langString .
+<http://dbpedia.org/resource/Cisco_Systems> <http://dbpedia.org/property/symbol> "CSCO"^^rdf:langString .
+<http://dbpedia.org/resource/Dropbox> <http://dbpedia.org/property/symbol> "DBX"^^rdf:langString .
+<http://dbpedia.org/resource/TripAdvisor> <http://dbpedia.org/property/symbol> "TRIP"^^rdf:langString .
+<http://dbpedia.org/resource/Western_Digital> <http://dbpedia.org/property/symbol> "WDC"^^rdf:langString .
+<http://dbpedia.org/resource/Qorvo> <http://dbpedia.org/property/symbol> "QRVO"^^rdf:langString .
+<http://dbpedia.org/resource/Formula_Systems> <http://dbpedia.org/property/symbol> "FORTY"^^rdf:langString .
+<http://dbpedia.org/resource/Sapiens_International_Corporation> <http://dbpedia.org/property/symbol> "SPNS"^^rdf:langString .

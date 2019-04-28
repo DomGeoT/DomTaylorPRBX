@@ -1,0 +1,6 @@
+SELECT * WHERE {
+
+    <{companyURI1}> <http://dbpedia.org/ontology/foundedBy> ?person .
+    <{companyURI2}> <http://dbpedia.org/ontology/foundedBy> ?person .
+
+}

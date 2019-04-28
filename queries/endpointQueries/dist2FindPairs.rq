@@ -1,0 +1,18 @@
+SELECT ?b WHERE {
+   {
+      <{companyURI1}> <{relationA}> ?b .
+      ?b <{relationC}> <{companyURI2}> .
+   } UNION
+   {
+      <{companyURI2}> <{relationA}> ?b .
+      ?b <{relationC}> <{companyURI1}> .
+   } UNION
+   {
+      ?b <{relationA}> <{companyURI2}> .
+      ?b <{relationC}> <{companyURI1}> .
+   } UNION
+   {
+      <{companyURI2}> <{relationA}> ?b .
+      <{companyURI1}> <{relationC}> ?b .
+   }.
+}

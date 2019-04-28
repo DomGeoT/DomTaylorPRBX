@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db3bbb99-20d6-4278-8c0a-b22835c67113" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="updateSetupData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/updateSetupData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plotMetrics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/plotMetrics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calcSignificantRelationsMethod2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/calcSignificantRelationsMethod2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2244">
+              <caret line="133" selection-start-line="133" selection-end-line="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataCollector.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataCollection/dataCollector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1853">
+              <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="symbolURIPairCollector.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataCollection/symbolURIPairCollector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xxx</find>
+      <find>2018</find>
+      <find>hurc</find>
+      <find>srd</find>
+      <find>ACTG</find>
+      <find>upl</find>
+      <find>universit</find>
+      <find>lli</find>
+      <find>&lt;http://dbpedia.org/resource/Apple_Inc.&gt;</find>
+      <find>True</find>
+      <find>tsla</find>
+      <find>stx</find>
+      <find>SB</find>
+      <find>INTC</find>
+      <find>AMD*MS</find>
+      <find>MSFT*PE</find>
+      <find>QCOM</find>
+      <find>INTC*QC</find>
+      <find>AMD*IN</find>
+      <find>high`</find>
+      <find>GOOG*GO</find>
+      <find>cfa</find>
+      <find>ATVI</find>
+      <find>ATVI*EA</find>
+      <find>GOOG*G</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="AVtoIEX" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/output/Analysis.py" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/uriSymbolPair.rq" />
+        <option value="$PROJECT_DIR$/data/query.rq" />
+        <option value="$PROJECT_DIR$/data/runQuery.bat" />
+        <option value="$PROJECT_DIR$/data/companies.ttl" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/keyPerson.rq" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/sameIndustry.rq" />
+        <option value="$PROJECT_DIR$/queries/similarityQueries/keyPerson.rq" />
+        <option value="$PROJECT_DIR$/queries/similarityQueries/sameIndustry.rq" />
+        <option value="$PROJECT_DIR$/queries/dataQueries/symbolsQuery.rq" />
+        <option value="$PROJECT_DIR$/queries/dataQueries/symbolsUriQuery.rq" />
+        <option value="$PROJECT_DIR$/queries/similarityQueries/sameFounder.rq" />
+        <option value="$PROJECT_DIR$/queries/similarityQueries/employer.rq" />
+        <option value="$PROJECT_DIR$/queries/similarityQueries/subsiduary.rq" />
+        <option value="$PROJECT_DIR$/queries/similarityQueries/owningCompany.rq" />
+        <option value="$PROJECT_DIR$/data/out.json" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/dist2.rq" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/dist3.rq" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/dist1.rq" />
+        <option value="$PROJECT_DIR$/queries/similarityQueries/t.txt" />
+        <option value="$PROJECT_DIR$/dataAnalysis/IndividualHighCointegration.py" />
+        <option value="$PROJECT_DIR$/data/IndividualHighCointegration.py" />
+        <option value="$PROJECT_DIR$/queries/dataQueries/dateRangeQuery.rq" />
+        <option value="$PROJECT_DIR$/data/symbolURIPairsManual" />
+        <option value="$PROJECT_DIR$/data/symbolURIPairsManual.ttl" />
+        <option value="$PROJECT_DIR$/dataCollection/symbolURIPairCollector.py" />
+        <option value="$PROJECT_DIR$/output/csvToTTL.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dataAnalysis/ontologyScoring.py" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/dist2RelationCheck.rq" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/dist2FindPairs.rq" />
+        <option value="$PROJECT_DIR$/dataAnalysis/generateLatexSymbolsTable.py" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/dist1FindPairs.rq" />
+        <option value="$PROJECT_DIR$/queries/endpointQueries/dist1RelationCheck.rq" />
+        <option value="$PROJECT_DIR$/output/trainingTestSplit.py" />
+        <option value="$PROJECT_DIR$/data/symbolURIPairs.ttl" />
+        <option value="$PROJECT_DIR$/output/IndividualHighCointegration.py" />
+        <option value="$PROJECT_DIR$/output/fullExecution.py" />
+        <option value="$PROJECT_DIR$/output/main.py" />
+        <option value="$PROJECT_DIR$/output/setupData.py" />
+        <option value="$PROJECT_DIR$/output/cointPValsHistogram.py" />
+        <option value="$PROJECT_DIR$/output/plotPairOfStocks.py" />
+        <option value="$PROJECT_DIR$/output/calcDistanceScoresMethod1.py" />
+        <option value="$PROJECT_DIR$/output/plotMetrics.py" />
+        <option value="$PROJECT_DIR$/dataAnalysis/cointegrationTesting.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/dataCollection/runDataCollection.py" />
+        <option value="$PROJECT_DIR$/dataCollection/dataCollector.py" />
+        <option value="$PROJECT_DIR$/output/updateSetupData.py" />
+        <option value="$PROJECT_DIR$/output/calcSignificantRelationsMethod2.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="2026" />
+    <option name="height" value="2946" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AlphaVanatgeDataCollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlphaVanatgeDataCollector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlphaVanatgeDataCollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlphaVanatgeDataCollector" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlphaVanatgeDataCollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlphaVanatgeDataCollector" type="462c0819:PsiDirectoryNode" />
+              <item name="dataAnalysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlphaVanatgeDataCollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlphaVanatgeDataCollector" type="462c0819:PsiDirectoryNode" />
+              <item name="dataCollection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlphaVanatgeDataCollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlphaVanatgeDataCollector" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\output" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\dataAnalysis" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\data" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\queries\similarityQueries" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\queries\endpointQueries" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\dataAnalysis" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\data" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\output" />
+      <recent name="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\queries\dataQueries" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.calcSignificantRelationsMethod2">
+    <configuration name="IndividualHighCointegration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlphaVanatgeDataCollector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\GitKrakenRepos\ThirdYearProject\AlphaVanatgeDataCollector\output\plotMetrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="IndividualHighCointegration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlphaVanatgeDataCollector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/output/IndividualHighCointegration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="calcSignificantRelationsMethod2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlphaVanatgeDataCollector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/output/calcSignificantRelationsMethod2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cointPValsHistogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlphaVanatgeDataCollector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/output/cointPValsHistogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="plotMetrics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlphaVanatgeDataCollector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/output/plotMetrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="updateSetupData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlphaVanatgeDataCollector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/output/updateSetupData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.IndividualHighCointegration" />
+      <item itemvalue="Python.cointPValsHistogram" />
+      <item itemvalue="Python.plotMetrics" />
+      <item itemvalue="Python.updateSetupData" />
+      <item itemvalue="Python.calcSignificantRelationsMethod2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.calcSignificantRelationsMethod2" />
+        <item itemvalue="Python.plotMetrics" />
+        <item itemvalue="Python.updateSetupData" />
+        <item itemvalue="Python.cointPValsHistogram" />
+        <item itemvalue="Python.IndividualHighCointegration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db3bbb99-20d6-4278-8c0a-b22835c67113" name="Default" comment="" />
+      <created>1541587782185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541587782185</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated data collector to store data as RDF triples&#10;data is now collected for the previous 5 days&#10;intended to run CollectorSchedueller.py on a saturday&#10;Due to alpha vantage request limits limited to approximately 250 symbols">
+      <created>1545324970630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545324970630</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated data collector to store data as RDF triples&#10;data is now collected for the previous 5 days&#10;intended to run CollectorSchedueller.py on a saturday&#10;Due to alpha vantage request limits limited to approximately 250 symbols">
+      <created>1545328593885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545328593885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implemented pairs cointegration testing&#10;results visualized in histogram&#10;refactored and tidied up">
+      <created>1549925028418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549925028418</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactored cointegration testing to not repeat pairs and outputs to dictionary">
+      <created>1549989040976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549989040976</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactored cointegration testing to not repeat pairs and outputs to dictionary">
+      <created>1551102589679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551102589679</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Basic full implementation working&#10;Calculates cointegration values and similarity scores of pairs of stocks&#10;Plots scores against each others">
+      <created>1552315220037</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552315220037</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Basic full implementation working&#10;Calculates cointegration values and similarity scores of pairs of stocks&#10;Plots scores against each others">
+      <created>1552315656108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552315656108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Basic full implementation working&#10;Calculates cointegration values and similarity scores of pairs of stocks&#10;Plots scores against each others">
+      <created>1552317120341</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552317120341</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Basic full implementation working&#10;Calculates cointegration values and similarity scores of pairs of stocks&#10;Plots scores against each others">
+      <created>1552317140742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552317140742</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Basic full implementation working&#10;Calculates cointegration values and similarity scores of pairs of stocks&#10;Plots scores against each others">
+      <created>1552318537816</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1552318537816</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added gitignore">
+      <created>1552318812127</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1552318812128</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added gitignore">
+      <created>1555678368544</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555678368544</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added section for plotting pairs of stocks against one another">
+      <created>1555678402676</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555678402676</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added section for plotting pairs of stocks against one another">
+      <created>1555932054283</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555932054284</updated>
+    </task>
+    <task id="LOCAL-00015" summary="updated gitignore">
+      <created>1555932279254</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1555932279254</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updated gitignore">
+      <created>1555951493988</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1555951493988</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated gitignore">
+      <created>1556482293407</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1556482293407</updated>
+    </task>
+    <task id="LOCAL-00018" summary="refactered output directory and added README">
+      <created>1556485435748</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1556485435748</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26735395" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.13195877" side_tool="true" visible="true" weight="0.28400955" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293556" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49621993" weight="0.3293556" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75463915" weight="0.26849642" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49965635" weight="0.3293556" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="JSON Viewer" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8680412" weight="0.28400955" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49140894" weight="0.26968974" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated data collector to store data as RDF triples&#10;data is now collected for the previous 5 days&#10;intended to run CollectorSchedueller.py on a saturday&#10;Due to alpha vantage request limits limited to approximately 250 symbols" />
+    <MESSAGE value="implemented pairs cointegration testing&#10;results visualized in histogram&#10;refactored and tidied up" />
+    <MESSAGE value="refactored cointegration testing to not repeat pairs and outputs to dictionary" />
+    <MESSAGE value="Basic full implementation working&#10;Calculates cointegration values and similarity scores of pairs of stocks&#10;Plots scores against each others" />
+    <MESSAGE value="added gitignore" />
+    <MESSAGE value="added section for plotting pairs of stocks against one another" />
+    <MESSAGE value="updated gitignore" />
+    <MESSAGE value="refactered output directory and added README" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactered output directory and added README" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/output/calcDistanceScoresMethod1.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataAnalysis/cointegrationTesting.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="59" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/queries/dataQueries/pairDataQuery.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/similarityQueries/employer.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/dist3.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/similarityQueries/t.txt" />
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/compDistances.json" />
+    <entry file="file://$PROJECT_DIR$/output/financialDataOLD.ttl" />
+    <entry file="file://$PROJECT_DIR$/queries/dataQueries/dateRangeQuery.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/manualSymbolPairs.ttl" />
+    <entry file="file://$PROJECT_DIR$/queries/similarityQueries/owningCompany.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/symbols.txt" />
+    <entry file="file://$PROJECT_DIR$/data/NASDAQ/AABA.csv" />
+    <entry file="file://$PROJECT_DIR$/output/csvToTTL.py" />
+    <entry file="file://$PROJECT_DIR$/data/ontologyDistances.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ontologyScores.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret column="1269" lean-forward="true" selection-start-column="1269" selection-end-column="1269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/dist2.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/financialData.ttl" />
+    <entry file="file://$PROJECT_DIR$/data/financialData2.ttl" />
+    <entry file="file://$PROJECT_DIR$/data/financialData.ttl">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="374">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/financialData.ttl">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/ontologyScoring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cointVals.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret column="1309" selection-start-column="1309" selection-end-column="1309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/dataQueries/stockDataSelectQuery.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/dataQueries/symbolsQuery.rq">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/dataQueries/symbolsUriQuery.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/generateLatexSymbolsTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/scipy/stats/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="3003" selection-start-line="3003" selection-end-line="3003" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/uriSymbolPair.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/significantRelationsDist1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/dist1.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/dist1FindPairs.rq">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/dist1RelationCheck.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/symbolURIPairs.ttl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/symbolURIPairsManual.ttl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/dist2RelationCheck.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/endpointQueries/dist2FindPairs.rq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/cointPValsHistogram.py" />
+    <entry file="file://$PROJECT_DIR$/output/tempQuery.rq" />
+    <entry file="file://$PROJECT_DIR$/output/setupData.py" />
+    <entry file="file://$PROJECT_DIR$/output/calcDistanceScoresMethod1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="42" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/tempResults.json" />
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/cointegrationTesting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataCollection/symbolURIPairCollector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataCollection/runDataCollection.py" />
+    <entry file="file://$PROJECT_DIR$/dataCollection/dataCollector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/updateSetupData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/calcSignificantRelationsMethod2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/plotMetrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

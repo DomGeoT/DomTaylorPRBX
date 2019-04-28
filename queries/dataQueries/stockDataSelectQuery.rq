@@ -1,0 +1,18 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbpedia2: <http://dbpedia.org/property/>
+
+SELECT DISTINCT ?symbol ?date ?time ?open ?close ?high ?low ?volume WHERE
+{
+    { ?datapoint1 dbpedia2:symbol 'XSPA' } UNION { ?datapoint1 dbpedia2:symbol 'SRDX' } UNION { ?datapoint1 dbpedia2:symbol 'OCFC' } UNION { ?datapoint1 dbpedia2:symbol 'CEY' } UNION { ?datapoint1 dbpedia2:symbol 'HABT' } UNION { ?datapoint1 dbpedia2:symbol 'ERI' } UNION { ?datapoint1 dbpedia2:symbol 'LBRDK' } UNION { ?datapoint1 dbpedia2:symbol 'TSC' } UNION { ?datapoint1 dbpedia2:symbol 'CENT' } UNION { ?datapoint1 dbpedia2:symbol 'CYHHZ' } UNION { ?datapoint1 dbpedia2:symbol 'BNCL' } UNION { ?datapoint1 dbpedia2:symbol 'AMEH' } UNION { ?datapoint1 dbpedia2:symbol 'TANNI' } UNION { ?datapoint1 dbpedia2:symbol 'GNMK' } UNION { ?datapoint1 dbpedia2:symbol 'QYLD' } UNION { ?datapoint1 dbpedia2:symbol 'PFMT' } UNION { ?datapoint1 dbpedia2:symbol 'QTT' } UNION { ?datapoint1 dbpedia2:symbol 'SNHNI' } UNION { ?datapoint1 dbpedia2:symbol 'STIM' } UNION { ?datapoint1 dbpedia2:symbol 'CYCC' } UNION { ?datapoint1 dbpedia2:symbol 'SWKS' } UNION { ?datapoint1 dbpedia2:symbol 'USAT' } UNION { ?datapoint1 dbpedia2:symbol 'XENT' } UNION { ?datapoint1 dbpedia2:symbol 'DNJR' } UNION { ?datapoint1 dbpedia2:symbol 'MU' } UNION { ?datapoint1 dbpedia2:symbol 'LANC' } UNION { ?datapoint1 dbpedia2:symbol 'FUND' } UNION { ?datapoint1 dbpedia2:symbol 'HCCHU' } UNION { ?datapoint1 dbpedia2:symbol 'CHSCN' } UNION { ?datapoint1 dbpedia2:symbol 'NANO' } .
+    ?datapoint1 dbpedia2:symbol ?symbol .
+    ?datapoint1 xsd:date ?date .
+    ?datapoint1 xsd:time ?time .
+    ?datapoint1 <Datapoint/open> ?open .
+    ?datapoint1 <Datapoint/close> ?close .
+    ?datapoint1 <Datapoint/high> ?high .
+    ?datapoint1 <Datapoint/low> ?low .
+    ?datapoint1 <Datapoint/volume> ?volume .
+
+
+} ORDER BY ?time

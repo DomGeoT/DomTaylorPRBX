@@ -1,0 +1,14 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbpedia2: <http://dbpedia.org/property/>
+
+SELECT ?date ?time ?open ?close WHERE 
+{
+
+	?datapoint1 dbpedia2:symbol 'ACT' .
+	?datapoint1 xsd:date ?date .
+	?datapoint1 xsd:time ?time .
+	?datapoint1 <Datapoint/open> ?open .
+	?datapoint1 <Datapoint/close> ?close .
+	
+} ORDER BY ?date ?time
